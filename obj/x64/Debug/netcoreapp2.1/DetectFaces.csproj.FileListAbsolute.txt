@@ -1,0 +1,13 @@
+d:\Develop\DevelopC#\DetectFaces\bin\x64\Debug\netcoreapp2.1\DlibDotNetNative.dll
+d:\Develop\DevelopC#\DetectFaces\bin\x64\Debug\netcoreapp2.1\DlibDotNetNativeDnn.dll
+D:\Develop\DevelopC#\DetectFaces\bin\x64\Debug\netcoreapp2.1\DetectFaces.deps.json
+D:\Develop\DevelopC#\DetectFaces\bin\x64\Debug\netcoreapp2.1\DetectFaces.runtimeconfig.json
+D:\Develop\DevelopC#\DetectFaces\bin\x64\Debug\netcoreapp2.1\DetectFaces.runtimeconfig.dev.json
+d:\Develop\DevelopC#\DetectFaces\bin\x64\Debug\netcoreapp2.1\DetectFaces.dll
+d:\Develop\DevelopC#\DetectFaces\bin\x64\Debug\netcoreapp2.1\DetectFaces.pdb
+d:\Develop\DevelopC#\DetectFaces\obj\x64\Debug\netcoreapp2.1\DetectFaces.csprojAssemblyReference.cache
+d:\Develop\DevelopC#\DetectFaces\obj\x64\Debug\netcoreapp2.1\DetectFaces.csproj.CoreCompileInputs.cache
+d:\Develop\DevelopC#\DetectFaces\obj\x64\Debug\netcoreapp2.1\DetectFaces.AssemblyInfoInputs.cache
+d:\Develop\DevelopC#\DetectFaces\obj\x64\Debug\netcoreapp2.1\DetectFaces.AssemblyInfo.cs
+d:\Develop\DevelopC#\DetectFaces\obj\x64\Debug\netcoreapp2.1\DetectFaces.dll
+d:\Develop\DevelopC#\DetectFaces\obj\x64\Debug\netcoreapp2.1\DetectFaces.pdb

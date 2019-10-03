@@ -1,0 +1,103 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "665130af85aab3a2d843bad85c03d35443c64ef3"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "DetectFaces/1.0.0": {
+        "dependencies": {
+          "DlibDotNet": "19.18.0.20190928"
+        },
+        "runtime": {
+          "DetectFaces.dll": {}
+        }
+      },
+      "DlibDotNet/19.18.0.20190928": {
+        "runtime": {
+          "lib/netstandard2.0/DlibDotNet.dll": {
+            "assemblyVersion": "19.17.0.0",
+            "fileVersion": "19.17.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/.keepfolder": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/libDlibDotNetNative.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/libDlibDotNetNativeDnn.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/.keepfolder": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libDlibDotNetNative.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libDlibDotNetNativeDnn.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/.keepfolder": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/DlibDotNetNative.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "19.18.0.0"
+          },
+          "runtimes/win-x64/native/DlibDotNetNativeDnn.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "19.18.0.0"
+          },
+          "runtimes/win-x86/native/.keepfolder": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/DlibDotNetNative.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "19.18.0.0"
+          },
+          "runtimes/win-x86/native/DlibDotNetNativeDnn.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "19.18.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DetectFaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DlibDotNet/19.18.0.20190928": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lDLsj8wvfv3s7iIeHCxbMmt37Rk06EqWZXOOe3hzkI4g563PRJZCzUgIfkoul007f0FUj4yqhE/FEL2iHWYPKw==",
+      "path": "dlibdotnet/19.18.0.20190928",
+      "hashPath": "dlibdotnet.19.18.0.20190928.nupkg.sha512"
+    }
+  }
+}
